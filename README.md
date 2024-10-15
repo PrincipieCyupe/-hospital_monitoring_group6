@@ -7,6 +7,25 @@ This project contains three shell scripts designed to handle heart rate data log
 ### Team Collaboration
 All members of the team were actively involved in the development of these scripts. Every team member was present during live coding sessions via a collaborative call, where ideas were shared, discussed, and implemented in real-time. Although no separate commits were made individually, the contributions and discussions were ongoing, ensuring that each member played a significant role in the development of the scripts.
 
+###Team Member
+Hycient Igweze
+h.igweze@alustudent.com
+
+Ariette Rusaro
+a.rusaro@alustudent.com
+
+Francis Mutabazi
+f.mutabazi1@alustudent.com
+
+Jeremie Iyamurinze
+j.iyamurinz@alustudent.com
+
+Loic Higiro
+l.higiro@alustudent.com
+
+Principie Cyubahiro
+p.cyubahiro@alustudent.com
+
 ## Project Structure
 
 The project contains the following three shell scripts:
